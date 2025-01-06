@@ -1,0 +1,33 @@
+h1{
+	color: red;
+}
+h2{
+	color: green;
+}
+.ol-underline {
+	text-decoration: underline;
+}
+.ul-spc {
+	color: brown;
+	letter-spacing: 5px;
+}
+.st2 {
+	background-color: yellow;
+	font-weight: bold;
+}
+.st3 {
+	color: brown;
+	font-size: large;
+}
+.st4 {
+	color: brown;
+	font-size: xx-small;
+}
+.st5 {
+	color: brown;
+	font-style: italic;
+}
+.st6 {
+	color: brown;
+	background-color: yellow;
+}
